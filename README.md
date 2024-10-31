@@ -1,30 +1,30 @@
-# 🌐 **EMConneqt** - Your Decentralized Social Hub
+# 🌐 **briXchange** - Your Decentralized Social Hub
 
-[![Deployment Status](https://img.shields.io/badge/Deployment-Live-brightgreen)](https://emconneqt.vercel.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ahkharsha/EMConneqt)
+[![Deployment Status](https://img.shields.io/badge/Deployment-Live-brightgreen)](https://briXchange-emc.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ahkharsha/briXchange-emc)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/harsha-kumar-a-271a76203/)
 
 <img src="https://github.com/user-attachments/assets/0b6cfe1c-0649-4085-aed3-d601f4370877" alt="logo-white" width="150"/>
 
 ---
 
-**EMConneqt** is a decentralized social media platform empowering users to connect, create, and share content while having full ownership over their data. Through blockchain technology, users can engage in a decentralized environment with text, images, videos, live streams, and more.
+**briXchange** is a decentralized social media platform empowering users to connect, create, and share content while having full ownership over their data. Through blockchain technology, users can engage in a decentralized environment with text, images, videos, live streams, and more.
 
 ---
 
 ## 🚀 **Deployment**
 
 Access the platform at:  
-<br>**🔗 [EMConneqt (Deployed) - emconneqt.vercel.app](https://emconneqt.vercel.app/)**<br><br>
+<br>**🔗 [briXchange (Deployed) - briXchange-emc.vercel.app](https://briXchange-emc.vercel.app/)**<br><br>
 
 ---
 
 ## 📜 **Smart Contract**
 
-The EMConneqt smart contract is deployed on the EMC Testnet at [0x73641118e93Be1Ed8cE170E17E564Fa76b43a8fb](https://testnet.emcscan.com/address/0x73641118e93Be1Ed8cE170E17E564Fa76b43a8fb).  
+The briXchange smart contract is deployed on the EMC Testnet at [0x73641118e93Be1Ed8cE170E17E564Fa76b43a8fb](https://testnet.emcscan.com/address/0x73641118e93Be1Ed8cE170E17E564Fa76b43a8fb).  
 Visit the link below to view the contract in the explorer!
 
-**🔗 [EMConneqt Smart Contract](https://testnet.emcscan.com/address/0x73641118e93Be1Ed8cE170E17E564Fa76b43a8fb)**
+**🔗 [briXchange Smart Contract](https://testnet.emcscan.com/address/0x73641118e93Be1Ed8cE170E17E564Fa76b43a8fb)**
 
 ---
 
@@ -56,7 +56,7 @@ Visit the link below to view the contract in the explorer!
 
 ## 🎯 **Project Vision**
 
-Our vision is to create a decentralized, user-first social media platform where everyone can connect, create, and share content while retaining full data ownership. **EMConneqt** empowers users with control, privacy, and monetization potential.
+Our vision is to create a decentralized, user-first social media platform where everyone can connect, create, and share content while retaining full data ownership. **briXchange** empowers users with control, privacy, and monetization potential.
 
 ---
 
@@ -76,8 +76,8 @@ Our vision is to create a decentralized, user-first social media platform where 
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/ahkharsha/EMConneqt.git
-    cd EMConneqt
+    git clone https://github.com/ahkharsha/briXchange-emc.git
+    cd briXchange
     cd client
     ```
 
@@ -145,7 +145,7 @@ Your application will be up and running at `http://localhost:3000` 🚀
 
 ## 📜 **License**
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/ahkharsha/EMConneqt/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ahkharsha/briXchange-emc/blob/master/LICENSE) file for details.
 
 ---
 
@@ -155,7 +155,7 @@ For any inquiries or support, feel free to reach out:
 
 - **Email**: [ahkharsha@gmail.com](mailto:ahkharsha@gmail.com)
 - **LinkedIn**: [A Harsha Kumar](https://www.linkedin.com/in/harsha-kumar-a-271a76203/)
-- **Project Website**: [EMConneqt](https://emconneqt.vercel.app/)
+- **Project Website**: [briXchange](https://briXchange-emc.vercel.app/)
 
 ---
 
