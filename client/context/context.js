@@ -16,7 +16,7 @@ import {
 export const SOCAIL_MEDIA_Context = React.createContext();
 
 export const SOCAIL_MEDIA_Provider = ({ children }) => {
-  const SOCIAL_MEDIA_DAPP = "briXchange";
+  const SOCIAL_MEDIA_DAPP = "EMConneqt";
   const [loader, setLoader] = useState(false);
   const [openCreatePost, setOpenCreatePost] = useState(false);
   const [activeComponent, setActiveComponent] = useState("Newsfeed");
